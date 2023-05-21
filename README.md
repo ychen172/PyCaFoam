@@ -4,7 +4,7 @@ Content:
 - IncStePISO: incompressible steady state piso solver (SD version is using steepest descent as oppose to direct method in solving Ax=b)
 
 ### Fully developed viscous channel flow
-Setup for this case can be found in IncStPISO
+Setup for this case can be found in IncStPISO.
 
 OpenFOAM solution:
 ![OF Solve](doc/OFUFullDev.png)
